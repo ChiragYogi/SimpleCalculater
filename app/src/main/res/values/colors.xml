@@ -9,5 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="button_color">#0F0F10</color>
     <color name="special_button_color">#4462EC</color>
-    <color name="edt_color">#60656c</color>
+    <color name="edt_color">#84898F</color>
 </resources>

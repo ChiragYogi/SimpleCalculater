@@ -15,10 +15,13 @@
         android:cursorVisible="true"
         android:importantForAutofill="no"
         android:inputType="none"
+        android:singleLine="true"
         android:scrollHorizontally="true"
         android:textSize="30sp"
         android:textStyle="bold"
         android:verticalScrollbarPosition="right"
+        android:textAlignment="viewEnd"
+        android:background="@drawable/edt_bacground"
         tools:ignore="LabelFor" />
 
     <EditText
@@ -33,6 +36,9 @@
         android:focusable="false"
         android:clickable="false"
         android:inputType="none"
+        android:background="@drawable/edt_bacground"
+        android:textAlignment="viewEnd"
+        android:textColor="@color/edt_color"
         android:layout_above="@+id/buttonLayout"
         tools:ignore="LabelFor" />
     <LinearLayout
