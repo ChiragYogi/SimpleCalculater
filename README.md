@@ -1,1 +1,1 @@
-# Simple Caluculater using Rhino script engine
+# Simple Caluculater using  JavaScript Rhino script engine
