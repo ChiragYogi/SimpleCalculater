@@ -1,1 +1,3 @@
-# Simple Caluculater using Rhino script engine
+# Simple Calculater 
+
+ A Simple  calculator in Kotlin Using  JavaScript Rhino script engine
